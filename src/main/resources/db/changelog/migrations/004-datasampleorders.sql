@@ -1,0 +1,1 @@
+insert into orders (customer_id, product_name, amount) value (1, "milk", 10)
